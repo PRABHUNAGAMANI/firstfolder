@@ -1,1 +1,5 @@
 java is simple programming language.
+
+inheritance 
+polymorphism
+interface
