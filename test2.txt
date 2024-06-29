@@ -1,1 +1,2 @@
-this is untracked file in github
+this is untracked file in githubg
+then it is tracked file
